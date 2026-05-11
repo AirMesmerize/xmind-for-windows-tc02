@@ -1,4 +1,4 @@
-
+Get the ultimate Obsidian for Windows integration with custom Obsidian for Windows Integration | offline-access + web-clipper. Featuring offline-access and web-clipper, it's the
 
 
 
